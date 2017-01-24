@@ -1,0 +1,2 @@
+# TRUSTslack
+SlackBot for Trust
